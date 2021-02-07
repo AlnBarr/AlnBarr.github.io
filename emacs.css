@@ -1,0 +1,24 @@
+
+/*set some colours to givw a sort of dark theme to the pages*/
+
+body {
+    color: lightblue;
+    background-color: darkblue;
+}
+
+h1 {
+    text-align: center;
+    color: lightgreen;
+}
+
+/* change the link colours so they are more visible on my blue background*/
+
+a:link {
+    color: #F9A7F8;
+}
+a:visited {
+    color: #B781DB;
+}
+a:hover {
+    color: #BFF2FD;
+}
