@@ -1,0 +1,139 @@
+[33mcommit 306b3920e87a04957bdfffaff7daae521042f5da[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: alan <alnbarr@gmail.com>
+Date:   Sun Feb 7 21:14:03 2021 +0000
+
+    first commit of my cheat sheet site
+
+[33mcommit f08ac0c17b06cf404b59a3e3f28ad0823fd5fe64[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Thu Aug 27 11:24:24 2020 +0100
+
+    Change to html
+
+[33mcommit b47e94d9544fe9c33427a3a89cc7904e2b0671e3[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Mon Aug 17 12:22:16 2020 +0100
+
+    Create README.md
+
+[33mcommit 98bc978304a8ba25e536cfed7f9549177f2a0a02[m
+Merge: c36809d 171860d
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Mon Jul 6 21:27:19 2020 +0100
+
+    Merge pull request #2 from AlnBarr/Test
+    
+    Test
+
+[33mcommit 171860df1de20aa6eff61de6a1f6c19bb1ffdfe1[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Mon Jul 6 21:24:54 2020 +0100
+
+    Update Who.md
+
+[33mcommit 0a8a0d5ffd7d93284f9600a63488da8583dd0c8d[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Mon Jul 6 21:23:35 2020 +0100
+
+    Update Who.md
+
+[33mcommit d5e92cc2ebdbc03fe1088c5483dd5aa03a7a6ae9[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Mon Jul 6 21:07:09 2020 +0100
+
+    Update Who.md
+
+[33mcommit c36809d0e7cf88dfe3d9e587c46cb10f4696a913[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Mon Jul 6 18:47:13 2020 +0100
+
+    Update index.md
+
+[33mcommit 073f464865f4483d15009689e6c38a19ee8d6cd4[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Mon Jul 6 18:44:44 2020 +0100
+
+    Rename Who_am_I to Who.md
+
+[33mcommit ab12e5415e877a1924aae40f6fe246e0730fc8df[m
+Merge: d5a01f1 139ec38
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Mon Jul 6 16:53:40 2020 +0100
+
+    Merge pull request #1 from AlnBarr/page-1
+    
+    Page 1
+
+[33mcommit 139ec38c45689be60cf04fe474f720460ca34bf6[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Mon Jul 6 16:52:01 2020 +0100
+
+    Create Who_am_I
+    
+    Post about identity in retirement.
+
+[33mcommit df9db3b19311f6534d68114d3b1097e4d5f00db0[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Mon Jul 6 16:41:21 2020 +0100
+
+    Update index.md
+
+[33mcommit b51851a968da0268fd5914dfcc55f9711dc809ac[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Mon Jul 6 16:38:43 2020 +0100
+
+    Update index.md
+
+[33mcommit 554bcd3d91c63acd30d75a0eef7aeacc9d25a5d5[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Mon Jul 6 16:38:00 2020 +0100
+
+    Update index.md
+
+[33mcommit d5a01f1a0c469382c587e9c185f4bbd5b5823bdc[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Sun Jul 5 21:00:32 2020 +0100
+
+    Set theme jekyll-theme-cayman
+
+[33mcommit d878b268f77aa9d86a3983d60dd51af5f3947bae[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Sun Jul 5 20:28:15 2020 +0100
+
+    Update _config.yml
+
+[33mcommit e566aa982741efc42fac1a1426f0bb79fafaa1cf[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Sun Jul 5 19:51:45 2020 +0100
+
+    Update _config.yml
+
+[33mcommit fa552ef3768fcb2146805330e59e3106f0ab1bce[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Sun Jul 5 19:48:52 2020 +0100
+
+    Update _config.yml
+
+[33mcommit 9bd14a410d66290f05f9589c5d36ad838c963e6f[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Sun Jul 5 19:46:26 2020 +0100
+
+    Update _config.yml
+
+[33mcommit c1ff7302ee1e5d68126ae38ceb5d9c8b92444e29[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Sun Jul 5 19:41:38 2020 +0100
+
+    Update _config.yml
+
+[33mcommit 09e8f851c0a6b2bfc4d9b8e49a08257cf63bc1db[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Sun Jul 5 19:32:16 2020 +0100
+
+    Update index.md
+
+[33mcommit f4b9dc31d4295a7309da488645daccc51fd3e0a7[m
+Author: AlnBarr <67840369+AlnBarr@users.noreply.github.com>
+Date:   Sun Jul 5 19:28:53 2020 +0100
+
+    Set theme jekyll-theme-time-machine
