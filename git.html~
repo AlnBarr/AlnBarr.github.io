@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+    <head>
+	<title>My GIT cheat sheet.</title>
+	<link rel="stylesheet" href="emacs.css">
+	<meta charset="UTF-8">
+
+    </head>
+
+
+    <body>
+	<div class="top">
+	    <h1>My GIT Page.</h1>
+	</div>
+	<div class="main">
+	    <h3>Local git commands</h3>
+	    <p>git init</p>
+	    <p>git add</p>
+	    <p>git commit -m "discription of changes"</p>
+	    <br>
+	    <h3>Branches</h3>
+	    <p>git branch branch-name <i>creats a branch</i></p>
+	    <p>git branch lists <i>the branches with an * beside the active branch.</i></p>
+	    <p>git checkout branch-name to change to another branch</p>
+	    <p>git checkout master <i>then</i> git merge name-of-branch <i>to merge a branch back into the master branch</i>
+
+		<h3>Git hub</h3>
+		<p>git clone http://etc</p>
+		<p>git remote add origin https://github.com/repository name</i></p>
+		<p>git branch -M main</p>
+		<p>git push -u origin main <i>-u links up the local and remote reositories</i></p>
+
+
+		<br>
+		<p>git status <i>By default, git status will automatically refresh the index, updating the cached stat information from the working tree and writing out the result.</i></p>
+
+		<p>git log <i> to find out what local repositories have been committed</i></p>
+	</div>
+	<div class="bottom">
+	       
+	</div>
+
+
+
+
+
+
+    </body>
+
+</html>
