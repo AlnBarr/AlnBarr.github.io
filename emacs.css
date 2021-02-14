@@ -4,10 +4,9 @@
 body {
     height: 100%;
     color: lightgreen;
-    background: rgb(55, 80, 219);
-    background: linear-gradient(86deg,  rgb(55, 80, 219) 0%, rgba(15,143,217,1) 100%);
+ background: rgb(68,63,167);
+background: linear-gradient(86deg, rgba(68,63,167,1) 0%, rgba(9,151,207,1) 100%); 
     margin: 0;
-    padding: 0;
   
 }
 .main {
