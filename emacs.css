@@ -1,9 +1,30 @@
 
-/*set some colours to givw a sort of dark theme to the pages*/
+/*set some colours to give a sort of dark theme to the pages*/
 
 body {
-    color: lightblue;
-    background-color: darkblue;
+    height: 100%;
+    color: lightgreen;
+    background: rgb(55, 80, 219);
+    background: linear-gradient(86deg,  rgb(55, 80, 219) 0%, rgba(15,143,217,1) 100%);
+}
+.main {
+    padding: 0 2em;
+
+    max-width: 60rem;
+    margin: auto;
+ 
+}
+/* The white polygon at the bottom of the page */
+.bottom {
+    width: 100%;
+    height: 10rem;
+    background-color: white;
+    padding: 0;
+
+    clip-path: polygon(0 76%, 100% 94%, 100% 100%, 0 100%);
+    position: absolute
+    z-index: -1;
+    
 }
 
 h1 {
