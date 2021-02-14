@@ -6,6 +6,9 @@ body {
     color: lightgreen;
     background: rgb(55, 80, 219);
     background: linear-gradient(86deg,  rgb(55, 80, 219) 0%, rgba(15,143,217,1) 100%);
+    margin: 0;
+    padding: 0;
+  
 }
 .main {
     padding: 0 2em;
